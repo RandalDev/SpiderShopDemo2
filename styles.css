@@ -794,6 +794,13 @@ b{
         
     }
 
+    .wg-imagen{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+
 
     .texto-reservar{
         font-size: 250%;
