@@ -801,6 +801,13 @@ b{
     
     }
 
+    .menu-lista{
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+
 
     .texto-reservar{
         font-size: 250%;
@@ -910,6 +917,8 @@ b{
         list-style: none;
         display: flex;
         align-items: center;
+        justify-content: space-evenly;
+        width: 75%;
     }
 
     li{
